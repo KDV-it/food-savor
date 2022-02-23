@@ -1,0 +1,25 @@
+.footer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0 40vh 10vh 40vh;
+  padding: 5vh 10vh;
+  border-radius: 30px;
+  background-color: #fff;
+}
+
+.foo-content {
+  max-width: 80vh;
+}
+
+.btn-join-now {
+  width: 20vh;
+  height: 6vh;
+  border-radius: 45px;
+  background-color: #7eb685;
+  font-weight: bold;
+  color: #fff;
+  border: 0px;
+  cursor: pointer;
+}

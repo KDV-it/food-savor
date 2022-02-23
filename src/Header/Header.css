@@ -1,0 +1,23 @@
+.header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 30px;
+}
+.img-logo {
+  width: 30vh;
+  cursor: pointer;
+}
+
+.sign-up {
+  width: 20vh;
+  height: 7vh;
+  font-size: 16px;
+  font-weight: bold;
+  color: #fff;
+  border-radius: 45px;
+  background-color: #7eb685;
+  border: 0px;
+  cursor: pointer;
+}
